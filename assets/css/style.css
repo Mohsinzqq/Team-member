@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@1&display=swap');
+
+
+
+
+
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background: linear-gradient(chocolate,skyblue,tomato);
+
+}
+
+.team {
+	text-align: center;
+}
+
+.steve {
+	height: 400px;
+	width: 300px;
+	border: 1px solid black;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5%;
+
+}
+.steve img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.steve h1 {
+	color: green;
+	font-family: 'Nerko One', cursive;
+	font-size: 40px;
+	text-shadow: 2px 5px 10px red;
+
+}
+.steve p{
+	color: red;
+	font-family: 'Xanh Mono', monospace;
+	text-align: justify;
+	padding: 0px 10px 0px 10px;
+	
+}
+
+
+.Mark {
+	height: 400px;
+	width: 300px;
+	border: 1px solid black;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5%;
+
+
+}
+.Mark img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.Mark h1 {
+	color: green;
+	font-family: 'Nerko One', cursive;
+	font-size: 40px;
+	text-shadow: 2px 5px 10px red;
+
+}
+.Mark p{
+	color: yellow;
+	font-family: 'Xanh Mono', monospace;
+	text-align: justify;
+	padding: 0px 10px 0px 10px;
+	
+}
+
+.download {
+	height: 400px;
+	width: 300px;
+	border: 1px solid black;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5%;
+
+}
+.download img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.download h1 {
+	color: green;
+	font-family: 'Nerko One', cursive;
+	font-size: 40px;
+	text-shadow: 2px 5px 10px red;
+
+}
+.download p{
+	color: rgb(4, 52, 226);
+	font-family: 'Xanh Mono', monospace;
+	text-align: justify;
+	padding: 0px 10px 0px 10px;
+	
+}
+
